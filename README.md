@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhay Shukla</h1>
-<h3 align="center">🚀 **Aspiring Data Analyst | Web Developer | Machine Learning Enthusiast**</h3>
+<h3 align="center">🚀 **Deep Learning | As Agents | Machine Learning Enthusiast**</h3>
 
 - 📫 How to reach me **abhayshukla.official10@gmail.com**
 
